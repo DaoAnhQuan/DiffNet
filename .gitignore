@@ -1,0 +1,4 @@
+./tmp
+./embedding.py
+./.idea
+./__pycache__
