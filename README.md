@@ -13,3 +13,4 @@ pip install -r requirements.txt
 python train.py
 ```
 3. Result:
+Saved in file result.txt.
